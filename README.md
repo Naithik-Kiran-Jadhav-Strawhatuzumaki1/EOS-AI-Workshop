@@ -21,20 +21,20 @@ Python · NumPy · Pandas · scikit-learn · TensorFlow · OpenAI API
 ## WEEK - 1
 ### DAY 1 
 AI foundations : 
-I Learned about AI VS ML VS DL which translates to Artificial Intelligence VS Machine Learning VS Deep Learning
+I Learned about AI VS ML VS DL which translates to Artificial Intelligence VS Machine Learning VS Deep Learning.
 AI Is different from Machine Learning as AI uses Fixed Rules while ML learning through patterns and Constantly tries to Improve.
 I Learned about the places where ML is used and learned about  GETDRAW which was created by google.
 I Learned About The history of AI and the AI Winters, and the 75 years it Took to get to where we are.
-I Learned about AI related careers in india and their paythrough per job
-Then I learned about How to create a gitHub and how to use It 
-GITHUB is used by almost all AI engieers 
+I Learned about AI related careers in india and their paythrough per job.
+Then I learned about How to create a gitHub and how to use It .
+GITHUB is used by almost all AI engieers .
 
 ### DAY 2
-I Learned about PYTHON
-PYTHON is very Important
-ITS VERY USEFULL
-I larned about google colab which allows us to use the other persons python on this device incase the device is super old 
-I PREDICTED THE OUTPUTS CORRECTLY
+I Learned about PYTHON.
+PYTHON is very Important.
+ITS VERY USEFULL.
+I larned about google colab which allows us to use the other persons python on this device incase the device is super old . 
+I PREDICTED THE OUTPUTS CORRECTLY.
 I Learned about NUMPY which is a tool to perform mathamatical operations in python 18x faster.
-I Used PIXEL ART LAB
-I Used MNIST veiwer
+I Used PIXEL ART LAB.
+I Used MNIST veiwer.
